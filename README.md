@@ -1,5 +1,5 @@
 ### Description
-Simple flashcard generator using Excel and Python
+Simple flashcard generator using Excel and python
 
 ### Planned Enhancements
 Integrate spaced repitition algorithm
